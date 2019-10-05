@@ -1,0 +1,68 @@
+1st arrondissement
+Pentes de la Croix-Rousse
+Terreaux
+Martinière/Saint-Vincent
+
+2nd arrondissement
+Cordeliers
+Bellecour
+Ainay
+Perrache
+Confluence
+Sainte-Blandine
+
+3rd arrondissement
+La Guillotière
+Préfecture
+Part-Dieu
+La Villette
+Dauphiné/Sans Souci
+Montchat
+Grange Blanche
+Monplaisir
+
+4th arrondissement
+Croix-Rousse
+Serin
+
+5th arrondissement
+Vieux Lyon
+Saint-Just
+Saint-Irénée
+Fourvière
+Point du Jour
+Ménival
+Battières
+Champvert
+
+6th arrondissement
+Brotteaux
+Bellecombe
+Parc de la Tête d'or
+Cité Internationale
+
+7th arrondissement
+La Guillotière
+Jean Macé
+Gerland
+
+8th arrondissement
+Monplaisir
+Bachut
+États-Unis
+Grand Trou
+Moulin à Vent
+Grange Blanche
+Laënnec
+Mermoz
+Monplaisir-la-Plaine
+
+9th arrondissement
+Vaise
+Duchère
+Rochecardon
+Saint-Rambert
+Île-Barbe
+Gorge de Loup
+Observance
+Champvert
